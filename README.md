@@ -1,0 +1,2 @@
+# Google_Looker_Studio_Projecto_final
+Dispositiva de dashboard
