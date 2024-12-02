@@ -1,2 +1,2 @@
 # Google_Looker_Studio_Projecto_final
-Dispositiva de dashboard
+Dispositivas de dashboard, hechas en google studio looker.
